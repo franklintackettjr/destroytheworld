@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "13f7408f5d8cf1059d7679f413ccf1c1"
+build_time: [548724458, 424222000]
+inputs:
+  "/Users/franklin/Desktop/DestroyTheWorld/DestroyTheWorld/ViewController.swift": [548724454, 0]
+  "/Users/franklin/Desktop/DestroyTheWorld/DestroyTheWorld/AppDelegate.swift": [548724454, 0]
